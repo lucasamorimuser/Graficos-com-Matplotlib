@@ -12,7 +12,7 @@ Python - Linguagem para desenvolvimento dos comandos
 
 VS Code - Ferramenta de edição de código
 
-Excel -Armazenamento dos dados em arquivo no formato .CSV
+Excel - Armazenamento dos dados em arquivo no formato .CSV
 
 ### Roteiro
 
