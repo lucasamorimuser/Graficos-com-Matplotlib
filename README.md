@@ -31,3 +31,7 @@ Calculo de soma de receita nas operações de exportação para etanol hidratado
 Calculo de soma de volume exportado usando ferramentas PANDAS GROUPBY e SUM, e elaboração de gráfico de barras horizontais (barh) com MATPLOTLIB
 
 Calculo de soma exportado para etanol hidratado e anidro extraindo os dados por ano com DT.TO_PERIOD, agregando valores com GROUPBY e SUM. Elaboração de gráfico de linhas (plot) com MATPLOTLIB
+
+### Dados
+
+Origem dos dados - https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/ie/etanol
