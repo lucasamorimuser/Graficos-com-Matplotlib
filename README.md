@@ -24,13 +24,29 @@ Análise exploratória dos dados (AED) através dos métodos pandas INFO e DESCR
 
 Formatação de coluna como numérica usando o método PANDAS PD.TO_NUMERIC, e do tipo data usando PD.TO_DATETIME
 
-Calculo de soma de receita nas operações de exportação usando ferramentas PANDAS GROUPBY e SUM, e elaboração de gráfico de barras horizontais (barh) com MATPLOTLIB
+Soma de receita nas operações de exportação usando ferramentas PANDAS GROUPBY e SUM, e elaboração de gráfico de barras horizontais (barh) com MATPLOTLIB
 
-Calculo de soma de receita nas operações de exportação para etanol hidratado e anidro extraindo os dados por ano com DT.TO_PERIOD, agregando valores com GROUPBY e SUM. Elaboração de gráfico de linhas (plot) com MATPLOTLIB
+<div style = "display: inline_block"><br>
+  <img align = "center" height = "400" width = "400" src="https://github.com/lucasamorimuser/icons_images/blob/main/receita_exportacao_total.png" />
+</div>
+<br><br>
+Receita nas operações de exportação para etanol hidratado e anidro extraindo os dados por ano com DT.TO_PERIOD, agregando valores com GROUPBY e SUM. Elaboração de gráfico de linhas (plot) com MATPLOTLIB
 
-Calculo de soma de volume exportado usando ferramentas PANDAS GROUPBY e SUM, e elaboração de gráfico de barras horizontais (barh) com MATPLOTLIB
+<div style = "display: inline_block"><br>
+  <img align = "center" height = "800" width = "800" src="https://github.com/lucasamorimuser/icons_images/blob/main/receita_exportacao_anual.png" />
+</div>
+<br><br>
+Soma de volume exportado usando ferramentas PANDAS GROUPBY e SUM, e elaboração de gráfico de barras horizontais (barh) com MATPLOTLIB
 
-Calculo de soma exportado para etanol hidratado e anidro extraindo os dados por ano com DT.TO_PERIOD, agregando valores com GROUPBY e SUM. Elaboração de gráfico de linhas (plot) com MATPLOTLIB
+<div style = "display: inline_block"><br>
+  <img align = "center" height = "400" width = "400" src="https://github.com/lucasamorimuser/icons_images/blob/main/volume_exportado_total.png" />
+</div>
+<br><br>
+Soma de exportação para etanol hidratado e anidro extraindo os dados por ano com DT.TO_PERIOD, agregando valores com GROUPBY e SUM. Elaboração de gráfico de linhas (plot) com MATPLOTLIB
+
+<div style = "display: inline_block"><br>
+  <img align = "center" height = "800" width = "800" src="https://github.com/lucasamorimuser/icons_images/blob/main/volume_exportado_anual.png" />
+</div>
 
 ### Dados
 
